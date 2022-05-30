@@ -1,0 +1,38 @@
+[
+    {
+        "labels": {
+            "job": "node",
+            "hostname": "rpi"
+        },
+        "targets": [
+            "192.168.31.106:9100"
+        ]
+    },
+    {
+        "labels": {
+            "job": "node",
+            "hostname": "r4s"
+        },
+        "targets": [
+            "192.168.1.1:9100"
+        ]
+    },
+    {
+        "labels": {
+            "job": "node",
+            "hostname": "nuc"
+        },
+        "targets": [
+            "192.168.31.30:19100"
+        ]
+    },
+    {
+        "labels": {
+            "job": "node",
+            "hostname": "macbook"
+        },
+        "targets": [
+            "192.168.31.29:9100"
+        ]
+    }
+]
